@@ -1,0 +1,10 @@
+sport1 = input ("Please enter a sport:  ")
+print(sport1)
+sport2 = input ("Please enter a sport: ")
+print(sport2)
+floor = input ("Please enter a part of a house:  ")
+print(floor)
+#NOW SHOW THEM IN REVERSE 
+print ("\t"+floor)
+print ("\t"+sport1)
+print ("\t"+sport2)
