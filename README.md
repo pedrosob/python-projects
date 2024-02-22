@@ -1,3 +1,4 @@
 <p align="center">
-  <img width="600" src="https://github.com/pedrosb/python-projects/blob/main/MYREADME.png?raw=true" alt="Bruno's Banner">
+  <img src="https://github.com/pedrosob/python-projects/raw/main/MYREADME.png" alt="Banner">
 </p>
+
